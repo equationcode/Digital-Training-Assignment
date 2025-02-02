@@ -1,0 +1,15 @@
+Write the command to create file
+What is Git & GitHub?
+What is the meaning of the acronym CLI?
+What is the command to see the directory you are inside presently?
+Write the command to move into a different directory
+Write the command to list the content of a directory
+Write the command to list the content of a directory including hidden files
+Write the command to initialize git in a directory
+Write the command to clone a repository
+Write the command to push a file to GitHub
+What is the difference between git & GitHub
+Write the commands to configure your git
+Write to show all the branches in a repository
+Write the command to switch between branches
+Write the command to merge branch
